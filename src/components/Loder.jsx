@@ -8,11 +8,11 @@ const Loder = () => {
     return (
 
         <div
-            className="flex items-center justify-center h-screen w-screen bg-center bg-cover bg-no-repeat relative"
-            style={{
-                backgroundImage: "url('https://i.ibb.co.com/8nG7fgYZ/b-1.jpg')",
+            className="flex items-center justify-center h-screen w-screen bg-center bg-cover bg-[#083257] bg-no-repeat relative"
+        // style={{
+        //     backgroundImage: "url('https://i.ibb.co.com/8nG7fgYZ/b-1.jpg')",
 
-            }}
+        // }}
         >
 
             <div className="relative w-50 h-50 flex items-center justify-center">
